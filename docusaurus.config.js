@@ -65,7 +65,21 @@ module.exports = {
     },
     prism: {
       theme: lightCodeTheme,
-      darkTheme: darkCodeTheme
+      darkTheme: darkCodeTheme,
+      additionalLanguages: [
+        'powershell',
+        'java',
+        'rust',
+        'xml-doc',
+        'yaml',
+        'sql',
+        'c',
+        'cpp',
+        'cmake',
+        'javascript',
+        'shell-session',
+        'bash'
+      ]
     }
   }
 }
