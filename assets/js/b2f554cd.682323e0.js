@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkngbs_mix=self.webpackChunkngbs_mix||[]).push([[477],{10:s=>{s.exports={blogPosts:[]}}}]);
