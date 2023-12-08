@@ -6,14 +6,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 module.exports = {
   title: '南顾北衫-mix',
   tagline: '南顾北衫-mix',
-  url: '-',
-  baseUrl: '/',
+  url: 'https://jiupie.github.io',
+  baseUrl: '/ngbs-mix/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: '-', // Usually your GitHub org/user name.
+  organizationName: 'jiupie', // Usually your GitHub org/user name.
   projectName: 'ngbs-mix', // Usually your repo name.
-
+  trailingSlash: false,
   presets: [
     [
       '@docusaurus/preset-classic',
